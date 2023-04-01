@@ -42,30 +42,5 @@
   "frontMatterComplementMatchStrategy": "inherit",
   "insertCommaAfterFrontMatterCompletion": false,
   "showLogAboutPerformanceInConsole": false,
-  "selectionHistoryTree": {
-    "Obsidian": {
-      "Obsidian": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1657495350945
-        }
-      }
-    },
-    "Blog": {
-      "Blog": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1657495451914
-        }
-      }
-    },
-    "assigned": {
-      "assigned": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1657633784249
-        }
-      }
-    }
-  }
+  "selectionHistoryTree": {}
 }
