@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2022/W28/2022-W28.md",
+                "file": "Journal/2022/W28/2022-07-12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2022/W28/2022-W28.md"
+                "file": "Journal/2022/W28/2022-07-12.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2022/W28/2022-W28.md",
+                "file": "Journal/2022/W28/2022-07-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2022/W28/2022-W28.md",
+                "file": "Journal/2022/W28/2022-07-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,17 +185,17 @@
   },
   "active": "c4ac2b886f60656a",
   "lastOpenFiles": [
-    "Journal/2023/W13/2023-04-01.md",
-    "Journal/2022/W28/2022-07-12.md",
-    "Journal/2022/W28/2022-W28.md",
-    "Templates/Daily.md",
-    "Templates/Metadata.md",
-    "Templates/Monthly.md",
-    "Journal/2022/2022-07.md",
-    "Journal/2023/W13",
-    "Journal/2023",
     "Journal/2022/2022.md",
     "Templates/Weekly.md",
+    "Templates/Monthly.md",
+    "Templates/Metadata.md",
+    "Templates/Daily.md",
+    "Journal/2022/2022-07.md",
+    "Journal/2022/W28/2022-W28.md",
+    "Journal/2022/W28/2022-07-12.md",
+    "Journal/2023/W13/2023-04-01.md",
+    "Journal/2023/W13",
+    "Journal/2023",
     "Journal/2022/W29/2022-07-12.md",
     "Journal/2022/W28/2022-07-12 5.md"
   ]
